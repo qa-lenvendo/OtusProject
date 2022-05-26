@@ -1,0 +1,12 @@
+{
+    "chrome": {
+        "browserName": "chrome",
+        "platformName": "Linux",
+        "applicationName": "Chrome-Linux"
+    },
+    "yandex": {
+        "browserName": "chrome",
+        "platformName": "Linux",
+        "applicationName": "Yandex-Linux"
+    }
+}
