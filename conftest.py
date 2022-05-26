@@ -1,5 +1,8 @@
 from pytest import fixture
 from fixtures.ui import UserInterface
+from utils.helpers import get_fixtures
+
+pytest_plugins = get_fixtures()
 
 
 @fixture(scope='function')
