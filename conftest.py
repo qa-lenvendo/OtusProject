@@ -1,17 +1,17 @@
 from pytest import fixture
-from fixtures.ui import UserInterface
+from ui.driver import UserInterface
 from utils.helpers import get_fixtures
 
 pytest_plugins = get_fixtures()
 
 
 @fixture(scope='function')
-def ui(request):
-    ui = UserInterface(pytest_option=request.config)
+def driver(request):
+    driver = UserInterface(pytest_option=request.config)
 
-    yield ui
+    yield driver
 
-    ui.destroy()
+    driver.destroy()
 
 
 def pytest_addoption(parser):
