@@ -1,0 +1,7030 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "date-start": {
+      "type": "string"
+    },
+    "date-end": {
+      "type": "string"
+    },
+    "text-preview": {
+      "type": "string"
+    },
+    "text-detail": {
+      "type": "string"
+    },
+    "legal-info": {
+      "type": "string"
+    },
+    "picture-detail": {
+      "type": "string"
+    },
+    "sections": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "id": {
+              "type": "integer"
+            },
+            "count": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "name",
+            "id",
+            "count"
+          ]
+        }
+      ]
+    },
+    "total": {
+      "type": "integer"
+    },
+    "products": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "number"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "number"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "number"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "number"
+                    },
+                    "previousPrice": {
+                      "type": "number"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "number"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "number"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "number"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "iconSvg": {
+                  "type": "string"
+                },
+                "parentId": {
+                  "type": "integer"
+                },
+                "children": {
+                  "type": "array",
+                  "items": {}
+                },
+                "hasProducts": {
+                  "type": "null"
+                },
+                "popularCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "popularProductCategoryListId": {
+                  "type": "array",
+                  "items": {}
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "image",
+                "iconSvg",
+                "parentId",
+                "children",
+                "hasProducts",
+                "popularCategoryListId",
+                "popularProductCategoryListId",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "descriptionManufacturer": {
+              "type": "string"
+            },
+            "blocks": {
+              "type": "null"
+            },
+            "mainFeature": {
+              "type": "null"
+            },
+            "analogProductsIdList": {
+              "type": "null"
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "discount": {
+                      "type": "null"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "number"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    },
+                    "pharmacistPrice": {
+                      "type": "null"
+                    },
+                    "availableInStores": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "grammar": {
+                      "type": "null"
+                    },
+                    "grammarStep": {
+                      "type": "null"
+                    }
+                  },
+                  "required": [
+                    "discount",
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity",
+                    "pharmacistPrice",
+                    "availableInStores",
+                    "grammar",
+                    "grammarStep"
+                  ]
+                }
+              ]
+            },
+            "comments": {
+              "type": "null"
+            },
+            "rating": {
+              "type": "null"
+            },
+            "rateCount": {
+              "type": "null"
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "countries": {
+              "type": "null"
+            },
+            "storageTime": {
+              "type": "null"
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "url",
+                "code"
+              ]
+            },
+            "needRecipe": {
+              "type": "boolean"
+            },
+            "markingGuid": {
+              "type": "string"
+            },
+            "gallery": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "showCounter": {
+              "type": "integer"
+            },
+            "sortList": {
+              "type": "null"
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            },
+            "productFormsIdList": {
+              "type": "null"
+            },
+            "categoriesList": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "description",
+            "descriptionManufacturer",
+            "blocks",
+            "mainFeature",
+            "analogProductsIdList",
+            "offers",
+            "comments",
+            "rating",
+            "rateCount",
+            "picture",
+            "labels",
+            "countries",
+            "storageTime",
+            "brand",
+            "needRecipe",
+            "markingGuid",
+            "gallery",
+            "showCounter",
+            "sortList",
+            "status",
+            "productFormsIdList",
+            "categoriesList"
+          ]
+        }
+      ]
+    },
+    "more-info": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "picture": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "picture",
+            "text"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "picture": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "picture",
+            "text"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "picture": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "picture",
+            "text"
+          ]
+        }
+      ]
+    },
+    "hide-products": {
+      "type": "boolean"
+    },
+    "catalog-link": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "date-start",
+    "date-end",
+    "text-preview",
+    "text-detail",
+    "legal-info",
+    "picture-detail",
+    "sections",
+    "total",
+    "products",
+    "more-info",
+    "hide-products",
+    "catalog-link"
+  ]
+}

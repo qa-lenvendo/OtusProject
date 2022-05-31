@@ -1,5 +1,6 @@
 from pytest import fixture, hookimpl
-from api.auth import Auth
+from api.static_pages import StaticPages
+from api.actions import Actions
 from utils.helpers import get_settings
 
 settings_config = {}
@@ -12,5 +13,10 @@ def pytest_sessionstart(session):
 
 
 @fixture(scope='session')
-def api_auth():
-    return Auth(settings_config['SOURCE'])
+def api_static_page():
+    return StaticPages(settings_config['SOURCE'])
+
+
+@fixture(scope='session')
+def api_actions():
+    return Actions(settings_config['SOURCE'])

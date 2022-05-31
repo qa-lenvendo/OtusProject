@@ -1,4 +1,5 @@
 from requests import delete, get, patch, post
+from json import loads
 
 
 class BaseApi:
@@ -18,4 +19,8 @@ class BaseApi:
             headers = {}
         if auth is None:
             auth = ()
-        return get(url=f'{self.base_url}/{url}', verify=False, headers=headers, auth=auth)
+        r = get(url=f'{self.base_url}/{url}', verify=False, headers=headers, auth=auth)
+        try:
+            return loads(r.text)
+        except Exception as e:
+            raise AssertionError(e)

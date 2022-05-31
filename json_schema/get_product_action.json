@@ -1,0 +1,359 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity"
+                  ]
+                }
+              ]
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "code"
+              ]
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "offers",
+            "picture",
+            "labels",
+            "brand",
+            "status"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "code": {
+              "type": "string"
+            },
+            "article": {
+              "type": "string"
+            },
+            "forAdults": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "altName": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "showCpfcBlock": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "altName",
+                "code",
+                "url",
+                "showCpfcBlock"
+              ]
+            },
+            "siteId": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "offers": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "shop_code": {
+                      "type": "string"
+                    },
+                    "currentPrice": {
+                      "type": "integer"
+                    },
+                    "previousPrice": {
+                      "type": "integer"
+                    },
+                    "priceStores": {
+                      "type": "integer"
+                    },
+                    "priceStoresFrom": {
+                      "type": "integer"
+                    },
+                    "isAvailable": {
+                      "type": "boolean"
+                    },
+                    "isBookingAvailable": {
+                      "type": "boolean"
+                    },
+                    "isTemporarilyUnavailable": {
+                      "type": "boolean"
+                    },
+                    "quantity": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "name",
+                    "shop_code",
+                    "currentPrice",
+                    "previousPrice",
+                    "priceStores",
+                    "priceStoresFrom",
+                    "isAvailable",
+                    "isBookingAvailable",
+                    "isTemporarilyUnavailable",
+                    "quantity"
+                  ]
+                }
+              ]
+            },
+            "picture": {
+              "type": "string"
+            },
+            "labels": {
+              "type": "array",
+              "items": {}
+            },
+            "brand": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "code"
+              ]
+            },
+            "status": {
+              "type": "object",
+              "properties": {
+                "canBuy": {
+                  "type": "boolean"
+                },
+                "statusText": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "canBuy",
+                "statusText"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "code",
+            "article",
+            "forAdults",
+            "category",
+            "siteId",
+            "offers",
+            "picture",
+            "labels",
+            "brand",
+            "status"
+          ]
+        }
+      ]
+    },
+    "count": {
+      "type": "integer"
+    },
+    "pageSize": {
+      "type": "integer"
+    },
+    "filters": {
+      "type": "array",
+      "items": {}
+    }
+  },
+  "required": [
+    "items",
+    "count",
+    "pageSize",
+    "filters"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "page": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "code": {
+          "type": "string"
+        },
+        "formCode": {
+          "type": "null"
+        },
+        "dateActiveFrom": {
+          "type": "null"
+        },
+        "dateActiveTo": {
+          "type": "null"
+        },
+        "previewPicture": {
+          "type": "string"
+        },
+        "previewText": {
+          "type": "string"
+        },
+        "detailPicture": {
+          "type": "string"
+        },
+        "detailText": {
+          "type": "string"
+        },
+        "metaKeywords": {
+          "type": "string"
+        },
+        "metaDescription": {
+          "type": "string"
+        },
+        "metaTitle": {
+          "type": "string"
+        },
+        "sectionMetaDescription": {
+          "type": "string"
+        },
+        "sectionMetaKeywords": {
+          "type": "string"
+        },
+        "sectionMetaTitle": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "code",
+        "formCode",
+        "dateActiveFrom",
+        "dateActiveTo",
+        "previewPicture",
+        "previewText",
+        "detailPicture",
+        "detailText",
+        "metaKeywords",
+        "metaDescription",
+        "metaTitle",
+        "sectionMetaDescription",
+        "sectionMetaKeywords",
+        "sectionMetaTitle"
+      ]
+    }
+  },
+  "required": [
+    "page"
+  ]
+}
