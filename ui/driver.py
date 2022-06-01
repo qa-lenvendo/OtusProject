@@ -1,7 +1,7 @@
 from pytest import UsageError
 from selenium.webdriver import ChromeOptions, Remote, Chrome, FirefoxOptions
 from webdriver_manager.chrome import ChromeDriverManager
-from utils.helpers import get_browser_config, get_settings
+from utils.helpers import get_settings
 
 
 class UserInterface:

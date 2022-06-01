@@ -1,4 +1,4 @@
-from requests import delete, get, patch, post
+from requests import get
 from json import loads
 
 
