@@ -16,15 +16,7 @@ pipeline {
         stage('Tests') {
             steps {
                 catchError(buildResult: 'SUCCESS', stageResult: 'FAILURE') {
-                    sh """docker run
-                    --name project_tests
-                    --network selenoid my_project_tests
-                    --mode=remote
-                    --stand=${STAND}
-                    --browser_name=${BROWSER}
-                    --hub=${EXECUTOR_HUB}
-                    --hub_port=${EXECUTOR_PORT}
-                    -n ${STREAM_NUM}"""
+                    sh """docker run --name project_tests --network selenoid my_project_tests --mode=remote --stand=${STAND} --browser_name=${BROWSER} --hub=${EXECUTOR_HUB} --hub_port=${EXECUTOR_PORT} -n ${STREAM_NUM}"""
                 }
             }
         }
