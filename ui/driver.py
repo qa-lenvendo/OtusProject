@@ -1,5 +1,5 @@
 from pytest import UsageError
-from selenium.webdriver import ChromeOptions, Remote, Chrome
+from selenium.webdriver import ChromeOptions, Remote, Chrome, FirefoxOptions
 from webdriver_manager.chrome import ChromeDriverManager
 from utils.helpers import get_browser_config, get_settings
 
@@ -20,10 +20,17 @@ class UserInterface:
         options.add_experimental_option("excludeSwitches", ["enable-automation", "ignore-certificate-errors"])
 
         if self.mode == "remote":
+            if self.browser_name == 'chrome':
+                options = ChromeOptions()
+            elif self.browser_name == 'firefox':
+                options = FirefoxOptions()
+            else:
+                raise AssertionError(f'Unknown browser: {self.browser_name}')
+
             self.driver = Remote(
-                command_executor="http://" + self.hub + ":" + self.port + "/wd/hub",
-                desired_capabilities=get_browser_config(self.browser_name),
-                options=options,
+                command_executor='http://' + self.hub + ':' + self.port + '/wd/hub',
+                desired_capabilities=options.to_capabilities(),
+                options=options
             )
         elif self.mode == "local":
             self.driver = Chrome(
