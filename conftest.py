@@ -20,4 +20,4 @@ def pytest_addoption(parser):
     parser.addoption('--stand', action='store', default='prod', help='Choose stand')
     parser.addoption("--hub", action="store", default=None, help="Choose hub host")
     parser.addoption("--hub_port", action="store", default=None, help="Choose hub port")
-    parser.addoption("--headless", action="store", default="false", help="Choose headless mode: true or false")
+    parser.addoption("--headless", action="store", default="true", help="Choose headless mode: true or false")
