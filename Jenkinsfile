@@ -6,12 +6,6 @@ pipeline {
             steps {
                 git branch: 'main', url: 'https://github.com/qa-lenvendo/OtusProject.git'
                 sh 'mkdir -p allure-results'
-                sh "pip install flake8"
-            }
-        }
-        stage('Flake') {
-            steps {
-                    sh 'flake8 .'
             }
         }
         stage('Docker Build') {
