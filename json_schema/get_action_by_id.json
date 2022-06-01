@@ -795,7 +795,7 @@
       "type": "integer"
     },
     "products": {
-      "type": "array",
+      "type": ["array", "null"],
       "items": [
         {
           "type": "object",
